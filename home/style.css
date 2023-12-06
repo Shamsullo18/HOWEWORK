@@ -1,0 +1,318 @@
+#o1{
+    background-color:#ff7746;
+    color : white;
+    border: none;
+    width: 100px;
+}
+#o1:hover{
+    background-color:rgb(166, 166, 166);
+    color : black;
+    border: none;
+    width: 100px;
+}
+#o2{
+    background-color:#ffffff;
+    color : rgb(0, 0, 0);
+    border: none;
+    width: 100px;
+}
+#o2:hover{
+    background-color:rgb(167, 167, 167);
+    color : black;
+    border: none;
+    width: 100px;
+}
+.fight2{
+    margin-left: 124px;
+    margin-top: -34px;
+}
+#o3{
+    background-color:#ffffff;
+    color : rgb(0, 0, 0);
+    border: none;
+    width: 100px;
+}
+#o3:hover{
+    background-color:rgb(167, 167, 167);
+    color : black;
+    border: none;
+    width: 100px;
+}
+.fight3{
+    margin-left: 247px;
+    margin-top: -34px;
+}
+#o4{
+    background-color:#ffffff;
+    color : rgb(0, 0, 0);
+    border: none;
+    width: 100px;
+}
+#o4:hover{
+    background-color:rgb(121, 121, 121);
+    color : black;
+    border: none;
+    width: 100px;
+}
+.fight4{
+    margin-left: 366px;
+    margin-top: -34px;
+}
+#o5{
+    background-color:#c2c2c2;
+    color : rgb(0, 0, 0);
+    border: none;
+    width: 100px;
+}
+#o5:hover{
+    background-color:rgb(121, 121, 121);
+    color : black;
+    border: none;
+    width: 100px;
+}
+.fight5{
+    margin-left:1350px;
+    margin-top: -34px;
+}
+.fieldset{
+    background-color: #ff7746;
+    border: none;
+    width: 600px;
+    margin-top: -600px;
+    z-index: 1;
+}
+.input{
+    width: 300px;
+}
+.fiel1{
+    margin-left: 230px;
+    margin-top: -85px;
+}
+.fiel2{
+    margin-left: 464px;
+    margin-top: -85px;
+}
+.fiel3{
+    margin-left: 690px;
+    margin-top: -84px;
+}
+#o9{
+    background-color:#000000;
+    color : rgb(255, 255, 255);
+    border: none;
+    width: 100px;
+}
+#o9:hover{
+    background-color:rgb(181, 181, 181);
+    color : black;
+    border: none;
+    width: 100px;
+}
+.search{
+    margin-left: 915px;
+    margin-top: -86px;
+}
+input{
+width: 200px;
+height: 30px;
+}
+.room1 img{
+    width: 450px;
+    height: 350px;
+}
+.room1 fieldset{
+    width: 400px;
+    height: 600px;
+    border: none;
+}
+#o10{
+    background-color:#000000;
+    color : rgb(255, 255, 255);
+    border: none;
+    width: 100px;
+}
+#o10:hover{
+    background-color:rgb(166, 166, 166);
+    color : black;
+    border: none;
+    width: 100px;
+}
+#o11{
+    background-color:#000000;
+    color : rgb(255, 255, 255);
+    border: none;
+    width: 100px;
+}
+#o11:hover{
+    background-color:rgb(166, 166, 166);
+    color : black;
+    border: none;
+    width: 100px;
+}
+.room2{
+    margin-left: 500px;
+    margin-top: -619px;
+}
+.room2 img{
+    width: 450px;
+    height: 350px;
+}
+.room2 fieldset{
+    width: 400px;
+    height: 600px;
+    border: none;
+}
+#o12{
+    background-color:#000000;
+    color : rgb(255, 255, 255);
+    border: none;
+    width: 100px;
+}
+#o12:hover{
+    background-color:rgb(166, 166, 166);
+    color : black;
+    border: none;
+    width: 100px;
+}
+.room3{
+    margin-left: 1000px;
+    margin-top: -619px;
+}
+.room3 img{
+    width: 450px;
+    height: 350px;
+}
+.room3 fieldset{
+    width: 400px;
+    height: 600px;
+    border: none;
+}
+.left fieldset{
+width: 500px;
+border: none;
+}
+.right img{
+    width: 800px;
+    margin-left: 600px;
+    margin-top: -362px;
+}
+.mest1 fieldset{
+width: 250px;
+height: 30px;
+border: none;
+}
+.mest2 fieldset{
+    width: 250px;
+    height: 30px;
+    margin-left: 600px;
+    margin-top: -48px;
+    border: none;
+    }
+    .mest3 fieldset{
+        width: 250px;
+        height: 30px;
+        margin-left: 1125px;
+        margin-top: -48px;
+        border: none;
+        }
+.center fieldset{
+    background-color: #ff5011;
+height: 45px;
+border: none;
+}
+.center p{
+    text-align: center;
+    color: white;
+    margin-left: -880px;
+}
+.photo1 img{
+    margin-left: 805px;
+    margin-top: -999px;
+}
+.center1 fieldset{
+    background-color: #000000;
+}
+.center1 p{
+color: white;
+}
+.center1 input{
+    width: 1400px;
+}
+#o15{
+    background-color:#515151;
+    color : white;
+    border: none;
+    width: 100px;
+}
+#o15:hover{
+    background-color:rgb(0, 0, 0);
+    color : rgb(255, 255, 255);
+    border: none;
+    width: 100px;
+}
+.subs input{
+    width: 100px;
+}
+#o16{
+    background-color: #ff5011;
+    color : white;
+    border: none;
+    width: 100px;
+    height: 30px;
+}
+#o16:hover{
+    background-color:rgb(133, 133, 133);
+    color : rgb(0, 0, 0);
+    border: none;
+    width: 100px;
+    height: 30px;
+}
+.niz input{
+    width: 1400px;
+}
+#o17{
+    background-color: #000000;
+    color : white;
+    border: none;
+    width: 150px;
+    height: 50px;
+
+}
+#o17:hover{
+    background-color:rgb(133, 133, 133);
+    color : rgb(0, 0, 0);
+    border: none;
+    width: 150px;
+    height: 50px;
+}
+.end fieldset{
+    background-color: black;
+    text-align: center;
+}
+#o20{
+    color : white;
+    border: none;
+    width: 150px;
+    height: 50px;
+    margin: auto;
+
+}
+#o20:hover{
+    color : rgb(144, 144, 144);
+    border: none;
+    width: 150px;
+    height: 50px;
+    margin: auto;
+}
+.main{
+    background-image: url(https://www.w3schools.com/w3images/hotel.jpg);
+    width: 10000px;
+    height: 800px;
+}
+.home fieldset{
+    background-color: #ff642b;
+    border: none;
+    margin-top: -500px;
+    width: 600px;
+    height: 40px;
+}
